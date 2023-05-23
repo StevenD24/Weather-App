@@ -1,4 +1,4 @@
-# Real Time Weather Application
+# Weather Forecast Application
 
 ## Description
 This Weather Application is a simple yet powerful web app built using JavaScript. This application is a dynamic web application built using JavaScript, HTML, and CSS. It fetches real-time weather data for any city entered by the user, displaying the city name, the current weather condition, as well as the temperature in both Celsius and Fahrenheit degrees. The application also features a changing icon and background image to reflect the day and night time.
